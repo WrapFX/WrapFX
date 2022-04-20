@@ -20,3 +20,8 @@ I'm a high schooler studying to be a software engineer in the future.
 - I used C# for quite a while, but quit coding in it when i started to go more low level into things.
 - I LOVE Rust! My plan is to learn it fully and become a full time Rust programmer. It is gonna be a rocky journey, due to Rust's steep learning curve, but that shouldn't be much of a problem. Also, "intermediate" is a bit of far shot here, there should be another difficulty level just for Rust.
 
+### Naming traditions
+
+Most of my projects are named after some plant or bird. I like plants and birds.
+
+Also, the vast majority of my projects end with FX (IE: FinchFX, PassFX, IvyFX). I do it like this for the sake of recognizability and a little bit of personality to these names.
