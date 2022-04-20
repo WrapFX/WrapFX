@@ -2,8 +2,13 @@
 
 I'm a high schooler studying to be a software engineer in the future.
 
+**Languages**
+
 | Language | Skill |
 |-|-|
+| Python | Beginner | Never really liked this one
+| C++ | Intermediate |
+| C# | Intermediate |
 | Rust | Intermediate |
 
 <!--
