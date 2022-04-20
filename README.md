@@ -2,7 +2,7 @@
 
 I'm a high schooler studying to be a software engineer in the future.
 
-**Languages**
+### Languages
 
 | Language | Skill |
 |-|-|
@@ -20,17 +20,3 @@ I'm a high schooler studying to be a software engineer in the future.
 - I used C# for quite a while, but quit coding in it when i started to go more low level into things.
 - I LOVE Rust! My plan is to learn it fully and become a full time Rust programmer. It is gonna be a rocky journey, due to Rust's steep learning curve, but that shouldn't be much of a problem. Also, "intermediate" is a bit of far shot here, there should be another difficulty level just for Rust.
 
-<!--
-**WrapFX/WrapFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
