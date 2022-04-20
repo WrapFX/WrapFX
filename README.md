@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, i'm Wrap!
+
+I'm a high schooler studying to be a software engineer in the future.
 
 <!--
 **WrapFX/WrapFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
